@@ -41,7 +41,7 @@ flowchart TD
         W1["Week 1<br/>• Dev environment and access<br/>• 1:1s with half of engineering<br/>• Collaborate with Pedro<br/>• Say hi to JuanJo and Javier<br/>• Three 1:1s with Carl<br/>• First code check-in through full lifecycle<br/>• Localytics org 60 access and exploration<br/>• Study current architecture"]
         W2["Week 2<br/>• Remaining engineering 1:1s<br/>• Product used as a customer in org 60<br/>• Run weekly agent metrics review<br/>• Mandatory readings (PRD & SDLC initiatives)"]
         M1["Month 1<br/>• AI agent benchmarking framework<br/>  run against Quill and Analyst Agent<br/>• Rest-of-year roadmap fluency"]
-        M2["Month 2<br/>• Run at least two Product-Ops meetings<br/>• Assessment Agent tool (Maturity Model)<br/>• Audience Selection Agent dev"]
+        M2["Month 2<br/>• Mandatory sprint process & sandbox stability reading<br/>• Run at least two Product-Ops meetings<br/>• Assessment Agent tool (Maturity Model)<br/>• Audience Selection Agent dev"]
         M3["Month 3<br/>• Listening Tour<br/>• Campaign Creation Agent OR propose alternative<br/>• AI-forward internal SDLC agent prototype"]
 
         W1 --> W2 --> M1 --> M2 --> M3
@@ -151,6 +151,12 @@ Demo the working framework to all of engineering (including Carl, Juan, and Joey
 # **Objective**
 
 Month 2 technical deliverables focus on launching your first product agent integration and building a diagnostic agent that powers our Solutions team. The locked operational commitment is **Product-Ops**.
+
+# **Week 5: Mandatory Reading & Setup**
+
+- **Mandatory reading:**
+  - [Engineering Sprint Process](https://github.com/localytics/engineering-playbook/blob/main/delivery/sprint-process.md)
+  - [Sandbox Deployment and Stability Conventions](https://github.com/localytics/engineering-playbook/blob/main/workflow/sandbox-and-stability.md)
 
 # **Product-Ops**
 
